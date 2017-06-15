@@ -19,8 +19,8 @@ import plivo
 
 auth_id = "MANGM3YZK1ODHMODFJMD"
 auth_token = "ZWNlN2Q5NWU0YjUzMGJiYTg5M2NhMjczZjYxOWE2"
-src = 919865577908
-dst = 917871835020
+src = 9198xxxxxxxx
+dst = 9178xxxxxxxx
 
 form_grid_templates = {
 	"items": "templates/form_grid/item_grid.html"
